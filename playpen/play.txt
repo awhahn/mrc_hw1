@@ -1,0 +1,4 @@
+copy directory: cp -R playpen mrc_hw1
+copy directory: cp -R sandboc mrc_hw1
+rename: mv commands.txt play.txt
+
